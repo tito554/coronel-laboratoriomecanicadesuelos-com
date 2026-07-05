@@ -1,0 +1,48 @@
+# Laboratoriomecanicadesuelos — Coronel
+
+> Geotechnical engineering services in Coronel, Chile.
+
+## Services
+- [Aislacion Sismica](https://coronel.laboratoriomecanicadesuelos.com/aislacion-sismica/)
+- [Anclajes](https://coronel.laboratoriomecanicadesuelos.com/anclajes/)
+- [Calicatas Exploratorias](https://coronel.laboratoriomecanicadesuelos.com/calicatas-exploratorias/)
+- [Cbr Vial](https://coronel.laboratoriomecanicadesuelos.com/cbr-vial/)
+- [Cimentaciones](https://coronel.laboratoriomecanicadesuelos.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://coronel.laboratoriomecanicadesuelos.com/cimentaciones-superficiales/)
+- [Columnas Grava](https://coronel.laboratoriomecanicadesuelos.com/columnas-grava/)
+- [Densidad Cono Arena](https://coronel.laboratoriomecanicadesuelos.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://coronel.laboratoriomecanicadesuelos.com/ensayo-cpt/)
+- [Estabilidad Taludes](https://coronel.laboratoriomecanicadesuelos.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://coronel.laboratoriomecanicadesuelos.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://coronel.laboratoriomecanicadesuelos.com/excavaciones-subterraneo/)
+- [Exploracion](https://coronel.laboratoriomecanicadesuelos.com/exploracion/)
+- [Geofisica](https://coronel.laboratoriomecanicadesuelos.com/geofisica/)
+- [Geotecnia Vial](https://coronel.laboratoriomecanicadesuelos.com/geotecnia-vial/)
+- [Granulometria](https://coronel.laboratoriomecanicadesuelos.com/granulometria/)
+- [Grouting](https://coronel.laboratoriomecanicadesuelos.com/grouting/)
+- [Laboratorio In Situ](https://coronel.laboratoriomecanicadesuelos.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://coronel.laboratoriomecanicadesuelos.com/laboratorio-lab/)
+- [Licuefaccion](https://coronel.laboratoriomecanicadesuelos.com/licuefaccion/)
+- [Limites Atterberg](https://coronel.laboratoriomecanicadesuelos.com/limites-atterberg/)
+- [Losa De Cimentacion](https://coronel.laboratoriomecanicadesuelos.com/losa-de-cimentacion/)
+- [Masw Vs30](https://coronel.laboratoriomecanicadesuelos.com/masw-vs30/)
+- [Mejoramiento](https://coronel.laboratoriomecanicadesuelos.com/mejoramiento/)
+- [Monitoreo Excavaciones](https://coronel.laboratoriomecanicadesuelos.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://coronel.laboratoriomecanicadesuelos.com/muros-contencion/)
+- [Pavimento Flexible](https://coronel.laboratoriomecanicadesuelos.com/pavimento-flexible/)
+- [Permeabilidad Campo](https://coronel.laboratoriomecanicadesuelos.com/permeabilidad-campo/)
+- [Pilotes](https://coronel.laboratoriomecanicadesuelos.com/pilotes/)
+- [Placa De Carga](https://coronel.laboratoriomecanicadesuelos.com/placa-de-carga/)
+- [Resistividad Electrica Sev](https://coronel.laboratoriomecanicadesuelos.com/resistividad-electrica-sev/)
+- [Sismica](https://coronel.laboratoriomecanicadesuelos.com/sismica/)
+- [Sondaje Spt](https://coronel.laboratoriomecanicadesuelos.com/sondaje-spt/)
+- [Taludes](https://coronel.laboratoriomecanicadesuelos.com/taludes/)
+- [Tuneles Suelo Blando](https://coronel.laboratoriomecanicadesuelos.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://coronel.laboratoriomecanicadesuelos.com/vibrocompactacion/)
+
+## Contact
+- Website: https://coronel.laboratoriomecanicadesuelos.com/
+
+## About
+This site provides geotechnical engineering services in Coronel, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
